@@ -1,27 +1,39 @@
 body {
-   font-family: 'Lato', sans-serif;
-   color: #747704;
-   font-weight: 300;
+	font-family: 'Lato';
+	color: #747704;
+	font-weight: 300;
 }
+
 .text-muted {
-	color:#BCBBBB;
+	color:#bcbbbb;
 }
+
 .text-thin {
 	font-weight: 100;
 }
+
 .logo{
-	color: #F8981C;
+	color: #f8981c;
 	min-width: 48px;
 	min-height: 48px;
 }
+
 .big-title {
 	font-size: 55px;
 }
+
 .hr-thick {
 	border:solid 2px;
-	color: #BCBBBB;
+	color: #bcbbbb;
 	max-width: 100%;
 }
+
 img {
 	max-width: 100%;
+}
+
+.valid-css {
+	border:0;
+	width:88px;
+	height:31px
 }
